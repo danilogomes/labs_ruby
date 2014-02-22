@@ -1,0 +1,2 @@
+vetor = Array.new
+
