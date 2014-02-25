@@ -1,2 +1,0 @@
-vetor = Array.new
-
